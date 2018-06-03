@@ -7,7 +7,8 @@ Usage
 -----
 
 -  Clone or download the repository.
--  Require the class to access its functions.
+-  Install the dependencies with ``pip install -r requirements.txt`` or ``pip install requests``
+-  Install the package with ``pip install dev-identify``
 
 Example
 -------
